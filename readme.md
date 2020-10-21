@@ -13,7 +13,12 @@ the following are technologies that i used in the project
  -javascript
  -jquery
  -chrome browser
+## project setup instructions
+ The project is simple to install,to install the project,follow the following steps.-make an empty folder,clone the repository ising the link below
+ -after cloning the repository ,open the cloned folder,inside the folder ,run the index.html file using your favourite browser.
+ 
 
+ 
 
 
 # Licence
