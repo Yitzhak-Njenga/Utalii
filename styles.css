@@ -184,10 +184,12 @@ Services
 
 .service-info {
  text-align: center;
+ font-size: 16px;
  padding: 3rem 1rem 2.5rem 1rem;
 }
 
 .service-info p {
+ font-size: 16px;
  max-width: 20rem;
  color: var(--clr-grey-5);
  margin: 0 auto;
@@ -253,7 +255,7 @@ Services
 }  
 /* footer */
 .footer{
- background-color:#114B5F;
+ background-color:#061e25;
  color: blanchedalmond;
  text-align: center;
  padding-left: 2rem;
@@ -272,12 +274,13 @@ Services
  margin-right: 1rem;
  letter-spacing: var(--letterSpacing);
  transition: all 3s ease-in-out;
+ font-size: 16px;
 }
 .footer-link:hover{
  color: blue;
 }
 .footer-icon{
- font-size: 1.9rem;
+ font-size: 1.5rem;
  margin-right: 1rem;
  color: white;
  transition:var(--mainTransition) ;
@@ -290,10 +293,14 @@ Services
  text-transform: capitalize;
  letter-spacing: var(--letterSpacing);
  padding-bottom: 1rem;
+ font-size: 16px;
 }
 .top-header{
  color:#98CE00;
  font-family: 'Satisfy',
  cursive;
 
-}
+/* }
+.nav-mtalii {
+ padding-right: 5%;
+} */
