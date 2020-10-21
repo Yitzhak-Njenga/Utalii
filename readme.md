@@ -30,7 +30,8 @@ Do you want to collaborate to the project? well and good,any person with ideas c
  -create a pull request
  -thanks for your colaboration
  
-
+#### future scope
+In future we are looking foward to improve the projects functionality, moreso the UI and interactivity in general.this will be made possible as we continue to learn more technologies.
 
 # Licence
 Copyright (c) <2020> <Denis ligare,Barnabas Kamau,Joseph Okoth,Yitzhak Njenga>
