@@ -284,6 +284,7 @@ Services
  margin-right: 1rem;
  color: white;
  transition:var(--mainTransition) ;
+ padding: 4rem 0;
 }
 .footer-icon:hover{
  color: yellowgreen;
@@ -300,7 +301,7 @@ Services
  font-family: 'Satisfy',
  cursive;
 
-/* }
+}
 .nav-mtalii {
  padding-right: 5%;
-} */
+}
