@@ -54,7 +54,7 @@ padding-right: 5%;
     bottom: 0;
     /* top:0; */
     transition: all .4s;
-    background:skyblue;
+    background:transparent;
     z-index:5;
 }
  .single-town:hover .town-content {
@@ -80,6 +80,9 @@ padding-right: 5%;
  .town-text {
      color:#fff;
      padding: 0 10px 5px;
+ }
+ td, th{
+     padding:20px;
  }
  
 /* body{
