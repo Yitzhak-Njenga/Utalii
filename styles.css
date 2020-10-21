@@ -260,6 +260,7 @@ Services
  text-align: center;
  padding-left: 2rem;
  padding-right: 2rem;
+ height: 10rem;
 }
 .footer-links,.footer-icons{
  display: flex;
@@ -275,6 +276,7 @@ Services
  letter-spacing: var(--letterSpacing);
  transition: all 3s ease-in-out;
  font-size: 16px;
+ padding-top: 3rem;
 }
 .footer-link:hover{
  color: blue;
