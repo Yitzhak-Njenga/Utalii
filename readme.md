@@ -17,7 +17,18 @@ the following are technologies that i used in the project
  The project is simple to install,to install the project,follow the following steps.-make an empty folder,clone the repository ising the link below
  -after cloning the repository ,open the cloned folder,inside the folder ,run the index.html file using your favourite browser.
  
+### link to the repository
+ Here is the link to the project github repository 
 
+ https://github.com/Barnabas27/Utalii.git
+
+
+## colaborations
+Do you want to collaborate to the project? well and good,any person with ideas can colaborate to the project b following the below steps
+ -fork the repository into your account
+ -use clone the repository to your local machine 
+ -create a pull request
+ -thanks for your colaboration
  
 
 
