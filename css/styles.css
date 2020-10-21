@@ -26,7 +26,62 @@ padding-right: 5%;
     margin:10px 5px;
     border-radius:5px; 
 }
-
+.single-town {
+    /* padding-bottom: 70px; */
+    position: relative;
+    z-index:1;
+    overflow: hidden;
+    box-shadow: 5px 5px 15px #000;
+}
+.town-img {
+    position: relative;
+    z-index:5;
+    overflow: hidden;
+}
+.town-img img {
+    width:100%;
+    transition: .4s;
+}
+.single-town:hover .town-img img {
+    transform: scale(1.1);
+}
+.town-content {
+    /*   */
+    width:100%;
+    position: absolute;
+    text-align: center;
+    overflow: hidden;
+    bottom: 0;
+    /* top:0; */
+    transition: all .4s;
+    background:skyblue;
+    z-index:5;
+}
+ .single-town:hover .town-content {
+     height:150px;
+ }
+ .town-info {
+     padding: 5px 20px 5px 20px;
+     transition: all .5s;
+ }
+ .single-town:hover .town-content{
+    background:#000;
+ }
+ .single-town .town-content .town-info h3 {
+     text-transform: uppercase;
+     color:white;
+     font-size: 16px;
+     margin:5px;
+ }
+ .town-info p {
+     margin-top:15px;
+     color:#fff;
+ }
+ .town-text {
+     color:#fff;
+     padding: 0 10px 5px;
+ }
+ 
 /* body{
     background-color: aqua;
 } */ 
